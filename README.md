@@ -11,5 +11,6 @@ In this protfolio repository, you will find the documentation and code for proje
 As of writing, I am still learning the basics of coding and work as a Software Engineer, but as I develop I aim to always improve on my skills in such a way that I can be a flexible member of any team, able to take on whatever roles are required to ensure that a finished product is the best it can be.
 
 
-[Lego Spike 1](<../../OneDrive/Pictures/Camera Roll 1/2026/08/20260813_093254601_iOS.heic> "First drafts for our Lego Spike Car")
-[Lego Spike 1](<../../OneDrive/Pictures/Camera Roll 1/2026/08/20260813_093257852_iOS.heic> "First drafts for our Lego Spike Car")
+![First Lego Spike](20260813_093253141_iOS-1.jpg "First drafts for our Lego Spike Car")
+
+![First Lego Spike](20260813_093257852_iOS-1.jpg "First drafts for our Lego Spike Car")
