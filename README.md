@@ -2,8 +2,14 @@
 ## I'm Thorbjørn K. Ødegård, currently a student of Computer Engineering at NTNU Gjøvik studying Programming and Cybersecurity.
 I come from the city of Kristiansand at the southern tip of Norway, where I attended primary and highschool - participating in the International Bachelorette programme at the Kristiansand Kathedral School (KKG). Following my graduation, I spent half a year taking single-semester courses within computer engineering and digital infrastructure before leaving for service in the Norwegian Military. There I spent 18 months, serving as a cheuffeur and bus driver for the Recruit camp and NATO base in Stavanger, before finally graduating and returning to University, where I took up my current study, a position I had reserved before enlisting.
 
+![Me](3b9ee6ae-ca7a-4bb5-96da-d9f00a927e06.jpg)
+
 My interests lie within the realm of storytelling; mainly books, writing or reading, and roleplaying games like Dungeons and Dragons. I've also long had a facination for programming, enjoying immensely the challenge that learning to code provides as well as the feeling of accomplishment when I solve a problem and make progress. This is what made me decide to pursue an education and career within the field of programming and Cybersecurity, as it was something i believe would be engaging, interesting and beneficial for the future.
 
 In this protfolio repository, you will find the documentation and code for projects and assignments that I complete in relation to my studies at NTNU. This will range from the code which I have contributed to writing to complete Lego Spike task, to the larger projects that I complete on my own for my final exams. I will also expand on certain projects, my experiences with them and what I learned from my participations.
 
 As of writing, I am still learning the basics of coding and work as a Software Engineer, but as I develop I aim to always improve on my skills in such a way that I can be a flexible member of any team, able to take on whatever roles are required to ensure that a finished product is the best it can be.
+
+
+[Lego Spike 1](<../../OneDrive/Pictures/Camera Roll 1/2026/08/20260813_093254601_iOS.heic> "First drafts for our Lego Spike Car")
+[Lego Spike 1](<../../OneDrive/Pictures/Camera Roll 1/2026/08/20260813_093257852_iOS.heic> "First drafts for our Lego Spike Car")
