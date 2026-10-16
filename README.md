@@ -10,3 +10,7 @@ My interests lie within the realm of storytelling; mainly books, writing or read
 In this protfolio repository, you will find the documentation and code for projects and assignments that I complete in relation to my studies at NTNU. This will range from the code which I have contributed to writing to complete Lego Spike task, to the larger projects that I complete on my own for my final exams. I will also expand on certain projects, my experiences with them and what I learned from my participations.
 
 As of writing, I am still learning the basics of coding and work as a Software Engineer, but as I develop I aim to always improve on my skills in such a way that I can be a flexible member of any team, able to take on whatever roles are required to ensure that a finished product is the best it can be.
+
+## Directory
+[1. Reflections on Team-based Collaboration (IDATG1004)](https://github.com/Hjonk666/E.Portfolio/blob/3a3f7a5274342b59711643dfad6e5d722bd2cda3/Lego_Spike.md)
+2. Index of Projects for Programming 1 (IDATG1003)
