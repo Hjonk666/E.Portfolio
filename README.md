@@ -20,6 +20,4 @@ As we neared the end of the first project, this became essential along with twea
 
 ![Lego Spike](20260813_093257852_iOS-1.jpg "First drafts for our Lego Spike Car")
 
-Checking [link](https://github.com/Hjonk666/E.Portfolio/blob/cb42e6574e5aa7914f63b5366fd89e1686fc48f2/TestFile)
-
 The following tasks were largely made to be a continuation of the first; the second was to make the bot work as a lawn mower, using a simple but effective pattern of movement with the ability to sense obstructions in front and move around them. Here I took a more active role in the coding segment as the car was largely built and ready, requiring only that we add an ultra-sound sensor to the front. This task taught me more about the necessity of knowing the specs of the technology you work with when you code for it, as there were 'quirks' that I simply wouldn't have thought of from the code alone. For example, the ultrasound-sensor was there to detect how far something was from the sensor, but whenever there was nothing close enough to return a value, it simply returned a value of "-1", thereby forcing us to compensate with conditions for whenever the sensor read anything anything beneath a value of 0mm away.
