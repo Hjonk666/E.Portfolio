@@ -17,4 +17,8 @@ As of writing, I am still learning the basics of coding and work as a Software E
 ## Directory
 [1. Explanations and Reflections on Team-based Collaboration (IDATG1004)](https://github.com/Hjonk666/E.Portfolio/blob/main/IDATG1004_Spike_Projects/ReadMeSpike.md)
 
+<<<<<<< HEAD
 [2. Index of Projects for Programming 1 (IDATG1003)](https://github.com/Hjonk666/E.Portfolio/blob/main/IDATG1003_Prog1/README_Prog1.md)
+=======
+[2. Index of Projects for Programming 1 (IDATG1003)](https://github.com/Hjonk666/E.Portfolio/blob/main/IDATG1003_Prog1/README_Prog1.md)
+>>>>>>> 12b1630cce21164bdd664093aeedc5636e698f93
