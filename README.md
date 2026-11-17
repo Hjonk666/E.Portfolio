@@ -13,4 +13,5 @@ As of writing, I am still learning the basics of coding and work as a Software E
 
 ## Directory
 [1. Explanations and Reflections on Team-based Collaboration (IDATG1004)](https://github.com/Hjonk666/E.Portfolio/blob/3a3f7a5274342b59711643dfad6e5d722bd2cda3/Lego_Spike.md)
+
 2. Index of Projects for Programming 1 (IDATG1003)
