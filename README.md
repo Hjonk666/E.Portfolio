@@ -12,6 +12,6 @@ In this protfolio repository, you will find the documentation and code for proje
 As of writing, I am still learning the basics of coding and work as a Software Engineer, but as I develop I aim to always improve on my skills in such a way that I can be a flexible member of any team, able to take on whatever roles are required to ensure that a finished product is the best it can be.
 
 ## Directory
-[1. Explanations and Reflections on Team-based Collaboration (IDATG1004)](https://github.com/Hjonk666/E.Portfolio/blob/3a3f7a5274342b59711643dfad6e5d722bd2cda3/Lego_Spike.md)
+[1. Explanations and Reflections on Team-based Collaboration (IDATG1004)](https://github.com/Hjonk666/E.Portfolio/blob/main/IDATG1004_Spike_Projects/ReadMeSpike.md)
 
 2. Index of Projects for Programming 1 (IDATG1003)
