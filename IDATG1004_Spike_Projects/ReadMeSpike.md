@@ -2,13 +2,13 @@
 
 
 Pictured below is the first version of the Lego Spike car that my team and I developed in the subject Teambased Collaboration. This version was built and coded by us using Python to solve a few different tasks, first of them being that we simply needed to have it drive in a rektangle. This introduction project taught us the basics of working with the Lego Spike Module; the simple mechanics of building the car, and the functions unique to the Lego Spike code language - as it works on the syntax of Pythin with it's own functions and conventions made specifically for the Spike car.
-![Lego Spike](Pictures/20260813_093253141_iOS-1.jpg "First drafts for our Lego Spike Car")
+![Lego Spike](../Pictures/20260813_093253141_iOS-1.jpg "First drafts for our Lego Spike Car")
 
 The project started with a simple division of the work, something I took initiative with to figure out who on our group were best suited for which task. While we all ended up having a hand in every part of the project from the building to the coding, this initial division allowed us to effectively move forwards before generalising and sharing our progress later on. My first task was to take charge of building the car itself, as I was the one most familiar with building Lego and the necessary mechanics to build a car that was not only functional, but stable and consistent.
 
 As we neared the end of the first project, this became essential along with tweaking the code and using a Trial and Error method to figure out the correct values for motor-speed and time to run, as we needed the car to make precise 90-degree turns for the rectangle. Managing this made the following tasks much easier as we already had the precision necessary to fulfill their requirements, thereby only needing to modify the code itself so as to complete the next task.
 
-![Lego Spike](Pictures/20260813_093257852_iOS-1.jpg "First drafts for our Lego Spike Car")
+![Lego Spike](../Pictures/20260813_093257852_iOS-1.jpg "First drafts for our Lego Spike Car")
 
 The following tasks were largely made to be a continuation of the first; the second was to make the bot work as a lawn mower, using a simple but effective pattern of movement with the ability to sense obstructions in front and move around them. Here I took a more active role in the coding segment as the car was largely built and ready, requiring only that we add an ultra-sound sensor to the front. This task taught me more about the necessity of knowing the specs of the technology you work with when you code for it, as there were 'quirks' that I simply wouldn't have thought of from the code alone. For example, the ultrasound-sensor was there to detect how far something was from the sensor, but whenever there was nothing close enough to return a value, it simply returned a value of "-1", thereby forcing us to compensate with conditions for whenever the sensor read anything anything beneath a value of 0mm away.
 
@@ -22,11 +22,11 @@ From the beginning of the project, I took on the responsibility of developing th
 2. Secondary came a way to simulate it calling for emergency services.
 3. Last was a rudimentary way to detect it's patient so it would know when to begin applying CPR and calling for help.
 
-![Piston Design](Pictures/Screenshot_2026-11-10_131348.PNG)
+![Piston Design](../Pictures/Screenshot_2026-11-10_131348.PNG)
 These functions were relatively simple to develop considering the work already done to complete the previous tasks. The base of our robot was altered, unnecessary parts removed and altered to make sure the build was entirely focused on the project we were developing. I could then move on to adding the CPR function, using a basic frame around a circular motor that transformed it's rotational motion into linear motion, then adding a makeshift 'piston' to the tip. I then attached the motor vertically on the bot, with the piston pointing down so that once the bot had moved itself above the patient, it could begin performing CPR.
-![Piston attached to Bot before final design](Screenshot_2026-11-17_181445.PNG)
+![Piston attached to Bot before final design](../Pictures/Screenshot_2026-11-17_181445.PNG)
 The other functions were largely for show; having the bot flash messages on it's core and giving off beeping sounds served well enough to simulate an emergency call, especially as Lego Spike lacked more complicated functions I would have needed to do something more detailed. Similarly, I reused code from one of the earlier projects to have the robot use the ultrasound distance-sensor to simulate a more comprehensive sensor suite. It simply needed to see when something was in front of it and know to then stop, call for help and begin performing CPR. 
-![Finished HealthBot Prototype](Pictures/Screenshot_2026-11-17_181445.PNG)
+![Finished HealthBot Prototype](../Pictures/Screenshot_2026-11-17_181445.PNG)
 That was far from the only work done, of course - the main work of the project lied in the report we had to write for the final submission. This work posed challenges and frustrations throughout the whole process, which I learned a lot from.
 
 The main problem was in team communication; While I had thought that our team was communicating well and all on the same page during meetings and Class Sessions, it turned out that we had some vastly different understandings of what was actually being agreed on, something all of us should have worked harder to ensure did not happen. For example was there misunderstandings in exactly how the work was divided, leaving me and another member to stress and get frustrated as we felt we were doing the vast majority of the work both in and outside of the report. Attempts to rectify this met varying success, but it remained an issue throughout the whole project.
