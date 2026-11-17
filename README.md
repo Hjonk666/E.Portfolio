@@ -5,7 +5,10 @@ I come from the city of Kristiansand at the southern tip of Norway, where I atte
 ![alt text](Pictures/ProfilePicture.jpg)
 
 
-My interests lie within the realm of storytelling; mainly books, writing or reading, and roleplaying games like Dungeons and Dragons. I've also long had a facination for programming, enjoying immensely the challenge that learning to code provides as well as the feeling of accomplishment when I solve a problem and make progress. This is what made me decide to pursue an education and career within the field of programming and Cybersecurity, as it was something i believe would be engaging, interesting and beneficial for the future.
+My interests lie within the realm of storytelling; mainly books, writing or reading, and roleplaying games like Dungeons and Dragons. At the beginning of the Autumn Semester at NTNU in 2026 I became a founding member of the DnD Gjøvik organisation, taking active part in helping set up and manage the group so that more students as well as others could try out and participate in the hobby. I regularly attended the weekly meetings, taking part as a DM for the other players who would like to play as adventurers exploring the world and solving whatever problems I could put in their path.
+![DnDGjovik](Pictures/DnDGjovik_Poster.jpg)
+
+I've also long had a facination for programming, enjoying immensely the challenge that learning to code provides as well as the feeling of accomplishment when I solve a problem and make progress. This is what made me decide to pursue an education and career within the field of programming and Cybersecurity, as it was something i believe would be engaging, interesting and beneficial for the future.
 
 In this protfolio repository, you will find the documentation and code for projects and assignments that I complete in relation to my studies at NTNU. This will range from the code which I have contributed to writing to complete Lego Spike task, to the larger projects that I complete on my own for my final exams. I will also expand on certain projects, my experiences with them and what I learned from my participations.
 
@@ -14,4 +17,4 @@ As of writing, I am still learning the basics of coding and work as a Software E
 ## Directory
 [1. Explanations and Reflections on Team-based Collaboration (IDATG1004)](https://github.com/Hjonk666/E.Portfolio/blob/main/IDATG1004_Spike_Projects/ReadMeSpike.md)
 
-2. Index of Projects for Programming 1 (IDATG1003)
+[2. Index of Projects for Programming 1 (IDATG1003)](https://github.com/Hjonk666/E.Portfolio/blob/main/IDATG1003_Prog1/README_Prog1.md)
